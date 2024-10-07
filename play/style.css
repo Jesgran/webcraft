@@ -39,7 +39,7 @@ html,body{height:100%}
 
 body {
 	transition: .5s backdrop-filter;
-    background: url('online mc.png') no-repeat center center fixed;
+    background: url('About-bg.png') no-repeat center center fixed;
     background-size: cover;
     font-family: Minecraft, sans-serif;
 }
